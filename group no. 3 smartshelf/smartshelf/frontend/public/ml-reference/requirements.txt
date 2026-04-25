@@ -1,0 +1,8 @@
+numpy==1.24.4
+ultralytics
+paddleocr
+opencv-python
+scikit-learn
+fastapi
+uvicorn
+python-multipart

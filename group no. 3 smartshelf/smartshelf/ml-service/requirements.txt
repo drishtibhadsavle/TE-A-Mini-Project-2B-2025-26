@@ -1,0 +1,8 @@
+numpy==1.24.4
+ultralytics
+paddleocr
+opencv-python
+fastapi
+uvicorn
+python-multipart
+Pillow
